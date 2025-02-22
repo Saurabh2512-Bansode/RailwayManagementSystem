@@ -86,7 +86,7 @@ This project is a **Railway Management System** that allows users to:
    ```
 4. Start the backend server:
    ```sh
-   npm start
+  node index.js
    ```
 
 ### **Frontend Setup**
@@ -102,6 +102,7 @@ This project is a **Railway Management System** that allows users to:
    ```
 3. Start the React Native app:
    ```sh
+   npm start 
    npx react-native run-android   # For Android
    npx react-native run-ios       # For iOS
    ```
