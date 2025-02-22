@@ -86,7 +86,7 @@ This project is a **Railway Management System** that allows users to:
    ```
 4. Start the backend server:
    ```sh
-  node index.js
+   node index.js
    ```
 
 ### **Frontend Setup**
