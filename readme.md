@@ -70,7 +70,8 @@ This project is a **Railway Management System** that allows users to:
 1. Clone the repository:
    ```sh
    git clone https://github.com/Saurabh2512-Bansode/RailwayManagementSystem.git
-   cd railway-management-backend
+   cd Railway Project
+   cd RestApi
    ```
 2. Install dependencies:
    ```sh
@@ -91,8 +92,9 @@ This project is a **Railway Management System** that allows users to:
 ### **Frontend Setup**
 
 1. Navigate to the frontend folder:
+   cd RailwayProject
    ```sh
-   cd railway-management-frontend
+   cd UserSide
    ```
 2. Install dependencies:
    ```sh
