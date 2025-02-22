@@ -1,9 +1,0 @@
-{
-    "host"    : "localhost",
-    "user"     : "W1_87197_Saurabh",
-    "password" : "manager",
-    "dbname" : "trainreservationsystem",
-    "port": 3306,
-    "httpport": 9999
-
-}
